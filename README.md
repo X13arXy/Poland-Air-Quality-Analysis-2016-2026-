@@ -6,8 +6,7 @@
 ---
 
 ## 📊 Dashboard Preview
-*(Add a screenshot of your main dashboard page here)*
-![Dashboard Screenshot](03_Visualization/screenshot_main.png)
+![Dashboard Screenshot](DASHBOARD.png)
 
 👉 **[Interact with the Live Report]( https://app.powerbi.com/groups/me/reports/5884a3c3-73ce-44ef-8cae-406ff0f2336e/dbe81537da3fc3a4a028?experience=power-bi)**
 
